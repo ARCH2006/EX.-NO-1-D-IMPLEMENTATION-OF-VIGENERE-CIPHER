@@ -1,4 +1,6 @@
 # EX.-NO-1-D-IMPLEMENTATION-OF-VIGENERE-CIPHER
+## NAME: ARCHANA S
+## REGISTER NO: 212223040019
 
 ## AIM:
   To implement the Vigenere Cipher substitution technique using C program.
